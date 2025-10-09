@@ -6,7 +6,7 @@ After digging into Lending Club's loan data from 2007 to 2015, I've found that t
 
 ## Key Business Insight
 
-The current grading system works well to separate low-risk from high-risk borrowers. Grade A loans have about a 5% default rate, while Grade G jumps to nearly 51%. Grades F and G, in particular, are above our comfort zone for risk.
+The current grading system works well to separate low-risk from high-risk borrowers. Grade A loans have about a 5% default rate, while Grade G jumps to nearly 30%. Grades F and G, in particular, are above our comfort zone for risk.
 
 ### Supporting Evidence
 - Grade A loans are in line with industry standards for default rates
